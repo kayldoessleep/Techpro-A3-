@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class THIRDQSEATWORK1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
+//PEPE RHODINZ
         int count;
         do {
             System.out.print("How many grades (1 to 5): ");
