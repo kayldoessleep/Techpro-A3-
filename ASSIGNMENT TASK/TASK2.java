@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 //task 2
-public class Main {
+public class TASK2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double num1 = 0.0;
