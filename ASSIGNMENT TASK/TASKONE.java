@@ -2,8 +2,8 @@
 //task 1
 import java.util.Scanner;
 
-public class Main {
-    public static void TASKONE(String[] args) {
+public class TASKONE {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double weight;
         double newWeight;
